@@ -1,0 +1,14 @@
+# Ignore Visual Studio setting
+.vs
+# Ignore all node_modules directories
+**/node_modules/
+# Ignore bin and obj folders
+**/bin/
+**/obj/
+# Ignore packaged files
+**/*.nupkg
+
+Client/wwwroot/Themes/RyanJagdfeld.Theme.RunN/Theme.*
+Client/wwwroot/Themes/RyanJagdfeld.Theme.RunN/bundle.*
+/Client/wwwroot/Themes/RyanJagdfeld.Theme.RunN/Theme.css
+/Client/wwwroot/Themes/RyanJagdfeld.Theme.RunN/Theme.css.map
